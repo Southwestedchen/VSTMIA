@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the associated paper and this software release."
+title: "VST-MIA Artifact"
+type: software
+authors:
+  - family-names: "Southwestedchen"
+version: 1.0.0
+date-released: 2026-09-17
+repository-code: "https://github.com/Southwestedchen/VSTMIA"
+url: "https://github.com/Southwestedchen/VSTMIA"
+license: MIT
